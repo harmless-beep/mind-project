@@ -1,0 +1,87 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# User profile directories (should not be in git)
+AppData/
+3D Objects/
+Contacts/
+Favorites/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+Recorded Calls/
+
+# IDE/Editor
+.vscode/
+.vscode-shared/
+.idea/
+
+# Config/cache directories
+.cache/
+.config/
+.local/
+.ipython/
+.matplotlib/
+.spyder-py3/
+.continuum/
+.conda/
+.anaconda/
+
+# Dev tools
+.bun/
+.docker/
+.claude/
+.codex/
+.kilo/
+.openclaw/
+.opencode/
+.playwright-mcp/
+.wakatime/
+.fcc/
+
+# Git
+.gitconfig
+.ssh/
+
+# Windows
+NTUSER.DAT*
+ntuser.ini
+ntuser.dat.*
+
+# Node
+node_modules/
+package-lock.json
+package.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archives
+*.zip
+
+# Logs
+*.log
+
+# Temp files
+.Trash/
+Untitled-1.c
+
+# Project-specific (keep only what's needed)
+agent-framework/
+awesome-opencode/
+claude-coding-agents/
+custom-plugin-ai-agents/
+hive/
+open-multi-agent/
+ocx/
+plugger-open-code/
+video-audio-mcp/
+zenox-claude/
